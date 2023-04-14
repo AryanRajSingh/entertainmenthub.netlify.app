@@ -46,5 +46,9 @@ To run this project locally, please follow the instructions below:
 (git clone https://github.com/<YOUR_GITHUB_USERNAME>/entertainmenthub.netlify.app.git
 )
  
+<li> Install dependencies:</li>
+(cd entertainmenthub.netlify.app
+npm install)
+
 
 
