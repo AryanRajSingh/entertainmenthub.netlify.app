@@ -30,10 +30,21 @@ This is a web application built with React JS and Redux using the Material UI li
 
 # Technologies
 
-React.js 
+React.js  
 
 Redux
 
 Material UI
 
-TMDB API
+TMDB API (https://developers.themoviedb.org/3/getting-started/introduction)
+
+# Setup
+ 
+To run this project locally, please follow the instructions below:
+
+<li> clone the repository: </li>
+(git clone https://github.com/<YOUR_GITHUB_USERNAME>/movies-tvseries-app.git
+)
+ 
+
+
