@@ -14,16 +14,16 @@ This is a web application built with React JS and Redux using the Material UI li
 # Features
 <table>
 
-<li> View popular movies and TV series </li>
+<li> View tranding movies and TV series </li>
 
 <li> Search movies and TV series by title </li>
 
 <li> View details of a movie or TV series </li>
 
-<li> Add movies and TV series to favorites </li>
- 
-<li> View a list of favorite movies and TV series </li>
+
+
+
 
 <li> Fully responsive design </li> 
     
-</table>
+</table> 
