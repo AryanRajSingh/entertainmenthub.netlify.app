@@ -44,11 +44,19 @@ To run this project locally, please follow the instructions below:
 
 <li> clone the repository: </li>
 (git clone https://github.com/<YOUR_GITHUB_USERNAME>/entertainmenthub.netlify.app.git
-)
+) 
  
 <li> Install dependencies:</li>
 (cd entertainmenthub.netlify.app
 npm install)
 
+# Create an .env file in the root directory and add your TMDB API key:
 
 
+<li> REACT_APP_TMDB_API_KEY=<https://developers.themoviedb.org/3/getting-started/introduction> </li>
+    
+# Run the application:
+    
+ <li> npm start </li>
+
+    
