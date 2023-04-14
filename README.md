@@ -27,3 +27,13 @@ This is a web application built with React JS and Redux using the Material UI li
 <li> Fully responsive design </li> 
     
 </table> 
+
+# Technologies
+
+React.js 
+
+Redux
+
+Material UI
+
+TMDB API
