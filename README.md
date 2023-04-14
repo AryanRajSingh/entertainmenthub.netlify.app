@@ -58,5 +58,9 @@ npm install)
 # Run the application:
     
  <li> npm start </li>
+ 
+# Contributions
+ 
+Contributions are welcome! If you want to contribute to this project, please create a pull request with your changes.
 
     
