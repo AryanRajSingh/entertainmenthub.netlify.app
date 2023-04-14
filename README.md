@@ -43,7 +43,7 @@ TMDB API (https://developers.themoviedb.org/3/getting-started/introduction)
 To run this project locally, please follow the instructions below:
 
 <li> clone the repository: </li>
-(git clone https://github.com/<YOUR_GITHUB_USERNAME>/movies-tvseries-app.git
+(git clone https://github.com/<YOUR_GITHUB_USERNAME>/entertainmenthub.netlify.app.git
 )
  
 
